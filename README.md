@@ -16,3 +16,4 @@ As 2020 has progressed, more social issues have come to public attention. With t
 
 
 ![netflix](netflix-black-lives-matter.jpg)
+![blm](blm copy.jpg)
