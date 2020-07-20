@@ -15,4 +15,4 @@ As 2020 has progressed, more social issues have come to public attention. With t
 - [TIME Magazine Model Minority article](https://time.com/5859206/anti-asian-racism-america/) - June 25, 2020
 
 
-![netflix](images/netflix-black-lives-matter.jpg)
+![netflix](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wfla.com%2Fentertainment-news%2Fnetflix-launches-black-lives-matter-collection%2F&psig=AOvVaw0ohlos3cKEHY1rDMvsY8n2&ust=1595313972584000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCKjkh-qd2-oCFQAAAAAdAAAAABAD.jpg)
