@@ -1,3 +1,3 @@
 # DIGHUM 150A Archive Website
-## Podcast Analysis
+## Social Issues - 2020
 This is the home page of my website.
