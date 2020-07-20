@@ -13,3 +13,6 @@ As 2020 has progressed, more social issues have come to public attention. With t
 - [Washington Post article about racism against Asian Americans](https://www.washingtonpost.com/business/2020/05/19/asian-american-discrimination/) - May 19, 2020
 - [@soyouwanttotalkabout post about the Yemen crisis](https://www.instagram.com/p/CBl5g3-HxZD/) - June 18, 2020
 - [TIME Magazine Model Minority article](https://time.com/5859206/anti-asian-racism-america/) - June 25, 2020
+
+
+![netflix](images/netflix-black-lives-matter.jpg)
