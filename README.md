@@ -10,10 +10,14 @@ As 2020 has progressed, more social issues have come to public attention. With t
 
 
 ## Sample articles, images, etc.
+- [Forbes article on China's concentration camps](https://www.forbes.com/sites/ewelinaochab/2020/04/04/the-fate-of-uighur-muslims-in-china-from-re-education-camps-to-forced-labor/#38a6d7f52f73) - April 4, 2020
+- [Refinery29 article about fast fashion](https://www.refinery29.com/en-us/2020/04/9714553/coronavirus-effect-on-fast-fashion) - April 21, 2020
 - [Washington Post article about racism against Asian Americans](https://www.washingtonpost.com/business/2020/05/19/asian-american-discrimination/) - May 19, 2020
+
+![netflix](netflix-black-lives-matter.jpg) - June 10, 2020
+
 - [@soyouwanttotalkabout post about the Yemen crisis](https://www.instagram.com/p/CBl5g3-HxZD/) - June 18, 2020
 - [TIME Magazine Model Minority article](https://time.com/5859206/anti-asian-racism-america/) - June 25, 2020
-
-
-![netflix](netflix-black-lives-matter.jpg)
-![blm](blm copy.jpg)
+- [NPR article on prison labor](https://www.npr.org/2020/06/29/884989263/the-uncounted-workforce) - June 29, 2020
+- [New York Times article on ICE policy for international students](https://www.nytimes.com/2020/07/07/us/student-visas-coronavirus.html) - July 13, 2020)
+- [BBC article about Portland](https://www.bbc.com/news/world-us-canada-53466718) - July 19, 2020
