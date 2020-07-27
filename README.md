@@ -19,7 +19,7 @@ As 2020 has progressed, more social issues have come to public attention. With t
 ![netflix](images/netflix-black-lives-matter.jpg) - June 10, 2020
 
 
-<img src = "images/netflix-black-lives-matter.jpg width="100">
+<img src = "images/netflix-black-lives-matter.jpg" width="100">
 
 - [@soyouwanttotalkabout post about the Yemen crisis](https://www.instagram.com/p/CBl5g3-HxZD/) - June 18, 2020
 - [TIME Magazine Model Minority article](https://time.com/5859206/anti-asian-racism-america/) - June 25, 2020
