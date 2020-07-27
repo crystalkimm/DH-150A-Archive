@@ -13,13 +13,13 @@ As 2020 has progressed, more social issues have come to public attention. With t
 - [Forbes article on China's concentration camps](https://www.forbes.com/sites/ewelinaochab/2020/04/04/the-fate-of-uighur-muslims-in-china-from-re-education-camps-to-forced-labor/#38a6d7f52f73) - April 4, 2020
 - [Refinery29 article about fast fashion](https://www.refinery29.com/en-us/2020/04/9714553/coronavirus-effect-on-fast-fashion) - April 21, 2020
 - [Washington Post article about racism against Asian Americans](https://www.washingtonpost.com/business/2020/05/19/asian-american-discrimination/) - May 19, 2020
-![blm](blm\ copy.jpg)
+![blm](images/blm%20copy.jpg)
 
 - [Netflix creates a Black Lives Matter collection](https://www.wfla.com/entertainment-news/netflix-launches-black-lives-matter-collection/)
 ![netflix](images/netflix-black-lives-matter.jpg) - June 10, 2020
 
 
-<img src = "images/netflix-black-lives-matter.jpg, width="100">
+<img src = "images/netflix-black-lives-matter.jpg width="100">
 
 - [@soyouwanttotalkabout post about the Yemen crisis](https://www.instagram.com/p/CBl5g3-HxZD/) - June 18, 2020
 - [TIME Magazine Model Minority article](https://time.com/5859206/anti-asian-racism-america/) - June 25, 2020
