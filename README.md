@@ -21,6 +21,7 @@ As 2020 has progressed, more social issues have come to public attention. With t
 
 - [Systemic vs Systematic racism](https://withoutbullshit.com/blog/systemic-vs-systematic-for-example-systemic-racism) - June 8, 2020
 - [Netflix creates a Black Lives Matter collection](https://www.wfla.com/entertainment-news/netflix-launches-black-lives-matter-collection/) - June 10, 2020
+
 <img src = "images/netflix-black-lives-matter.jpg" width="350">c
 
 
